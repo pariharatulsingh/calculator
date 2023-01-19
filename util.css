@@ -1,0 +1,32 @@
+.text-center {
+    text-align: start;
+    font-family: 'Roboto Condensed', sans-serif;
+    animation: forwards;
+    text-decoration: underline;
+}
+
+.text-center:hover {
+    color: rgb(143, 61, 61);
+}
+
+
+/* .bg-col {
+    
+} */
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: fiex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+    justify-content: center;
+}
